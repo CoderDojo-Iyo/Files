@@ -1,9 +1,10 @@
 # Files
 - [チラシA5](FlyerA5.pdf)
-- チラシA5x2
+- チラシA5x2 - FlyerA5A5×2.pdf
 - [ポスターA4](PosterA4.pdf)
 - [ロゴ](Sign_logo.pdf)
 - [ロゴ+text](Sign_with_text.pdf)
+- ロゴまとめ(ai) - logo_CoderDojoIyo.ai
 - [ロゴまとめ](logo_CoderDojoIyo.pdf)
 - [ロゴ横長](logo_rect_mark_type.png)
 - [ロゴ横長背景なし](logo_rect_mark_type_bgnone.png)
